@@ -1,5 +1,5 @@
 # JS_crashcourse_Challenge
-JS crash course Practice challenge.
-Challenge 1 : Age calculate using JS.
-Challenge 2 : Cat Image generator. 
-other Challenges coming soon.
+JS crash course Practice challenge. /n
+Challenge 1 : Age calculate using JS. /n
+Challenge 2 : Cat Image generator. /n
+other Challenges coming soon. /n
